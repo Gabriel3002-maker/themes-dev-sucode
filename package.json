@@ -1,0 +1,36 @@
+{
+  "name": "themes-dev-sucode",
+  "displayName": "themes-dev-sucode",
+  "description": "themes-dev",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "S_BATMAN",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-black.json"
+      },
+      {
+        "label": "S_THANOS",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-red.json"
+      },
+      {
+        "label": "S_CAPITAN AMERICA",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-blue.json"
+      },
+      {
+        "label": "S_LINTERNA-VERDE",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-customer.json"
+      }
+    ]
+  }
+}

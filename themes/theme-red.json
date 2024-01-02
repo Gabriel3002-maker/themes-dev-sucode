@@ -1,0 +1,32 @@
+{
+    "name": "THANOS",
+    "colors": {
+      "editor.background": "#595775",
+      "editor.foreground": "#F38A30",
+
+      "activityBarBadge.background": "#132226",
+
+      "titleBar.activeBackground": "#595775",
+      "titleBar.inactiveBackground": "#132226",
+      "titleBar.activeForeground": "#132226",
+
+      "activityBar.background": "#595775",
+      "activityBar.foreground": "#FFFFFF",
+
+      "sideBar.background": "#595775",
+      "sideBar.foreground": "#FFFFFF",
+      "sideBarTitle.foreground": "#EBF2EA",
+
+      "statusBar.background": "#FF0000",
+      "statusBar.foreground": "#EBF2EA",
+
+      "input.background": "#FFFFFF",
+      "input.foreground": "#132226",
+      "input.placeholderForeground": "#132226"
+
+     
+    },
+    "tokenColors": [
+    ]
+  }
+  

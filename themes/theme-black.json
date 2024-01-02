@@ -1,0 +1,22 @@
+{
+  "name": "Black",
+  "colors": {
+      "editor.background": "#0E0E0E", 
+      "editor.foreground": "#0000FF", 
+      "activityBarBadge.background": "#132226",
+      "titleBar.activeBackground": "#0E0E0E", 
+      "titleBar.inactiveBackground": "#132226",
+      "titleBar.activeForeground": "#132226",
+      "activityBar.background": "#0E0E0E", 
+      "activityBar.foreground": "#FFFFFF",
+      "sideBar.background": "#0E0E0E", 
+      "sideBar.foreground": "#FFFFFF",
+      "sideBarTitle.foreground": "#EBF2EA",
+      "statusBar.background": "#FF0000",
+      "statusBar.foreground": "#EBF2EA",
+      "input.background": "#FFFFFF",
+      "input.foreground": "#FFFFFF",
+      "input.placeholderForeground": "#132226"
+  },
+  "tokenColors": []
+}

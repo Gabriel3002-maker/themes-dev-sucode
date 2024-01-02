@@ -1,0 +1,57 @@
+{
+    "name": "LINTERNA VERDE",
+    "colors": {
+      "editor.background": "#369B7E",
+      "editor.foreground": "#F38A30",
+
+      "activityBarBadge.background": "#132226",
+
+      "titleBar.activeBackground": "#369B7E",
+      "titleBar.inactiveBackground": "#132226",
+      "titleBar.activeForeground": "#132226",
+
+      "activityBar.background": "#369B7E",
+      "activityBar.foreground": "#FFFFFF",
+
+      "sideBar.background": "#369B7E",
+      "sideBar.foreground": "#FFFFFF",
+      "sideBarTitle.foreground": "#EBF2EA",
+
+      "statusBar.background": "#369B7E",
+      "statusBar.foreground": "#EBF2EA",
+
+      "input.background": "#369B7E",
+      "input.foreground": "#9B7636",
+      "input.placeholderForeground": "#132226"
+
+     
+    },
+	"tokenColors": [
+		{
+			"scope": [
+				"punctuation.section.block.begin",
+				"punctuation.section.block.end"
+			],
+			"settings": {
+				"foreground": "#FF0000" 
+			}
+		},
+		{
+			"scope": [
+				"punctuation.section.array.begin",
+				"punctuation.section.array.end"
+			],
+			"settings": {
+				"foreground": "#0000FF" 
+			}
+		},
+		{
+			"scope": "punctuation.separator.comma",
+			"settings": {
+				"foreground": "#00FF00" 
+			}
+		}
+	]
+	
+  }
+  

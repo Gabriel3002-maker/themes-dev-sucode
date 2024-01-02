@@ -1,0 +1,22 @@
+{
+  "name": "CAPITAN AMERICA",
+  "colors": {
+      "editor.background": "#002D62",
+      "editor.foreground": "#FFFFFF",
+      "activityBarBadge.background": "#EF3340",
+      "titleBar.activeBackground": "#002D62",
+      "titleBar.inactiveBackground": "#132226",
+      "titleBar.activeForeground": "#FFFFFF",
+      "activityBar.background": "#002D62",
+      "activityBar.foreground": "#FFFFFF",
+      "sideBar.background": "#002D62",
+      "sideBar.foreground": "#FFFFFF",
+      "sideBarTitle.foreground": "#EBF2EA",
+      "statusBar.background": "#D7080F",
+      "statusBar.foreground": "#EBF2EA",
+      "input.background": "#FFFFFF",
+      "input.foreground": "#000000",
+      "input.placeholderForeground": "#132226"
+  },
+  "tokenColors": []
+}
